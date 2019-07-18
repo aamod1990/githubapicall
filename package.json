@@ -1,0 +1,20 @@
+{
+  "name": "github_api_call",
+  "version": "1.0.0",
+  "description": "This is api call of the git and after make the proper user metrix",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "github_Api_call"
+  ],
+  "author": "Aamod Tiwari",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.3",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
